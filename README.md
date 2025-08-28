@@ -1,3 +1,9 @@
+```
+sudo yum install -y amazon-ssm-agent
+sudo systemctl enable amazon-ssm-agent
+sudo systemctl start amazon-ssm-agent
+```
+
 full **AWS Systems Manager (SSM) practice project** to the canvas — Terraform code, custom SSM runbooks, Patch Manager (baseline + maintenance window), Inventory to S3, Parameter Store (String + SecureString), CloudWatch Agent association, smoke-test scripts, plus optional GitHub Actions and a Jenkinsfile.
 
 ### How to run (quick)
