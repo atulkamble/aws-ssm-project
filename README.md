@@ -1,4 +1,4 @@
-Awesome, Atul! I’ve dropped a full **AWS Systems Manager (SSM) practice project** to the canvas — Terraform code, custom SSM runbooks, Patch Manager (baseline + maintenance window), Inventory to S3, Parameter Store (String + SecureString), CloudWatch Agent association, smoke-test scripts, plus optional GitHub Actions and a Jenkinsfile.
+full **AWS Systems Manager (SSM) practice project** to the canvas — Terraform code, custom SSM runbooks, Patch Manager (baseline + maintenance window), Inventory to S3, Parameter Store (String + SecureString), CloudWatch Agent association, smoke-test scripts, plus optional GitHub Actions and a Jenkinsfile.
 
 ### How to run (quick)
 
